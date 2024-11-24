@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+table{
+    width: 1500px;
+    border-collapse: collapse;
+}
+
+th,  td{
+    border: 2px solid black;
+    padding: 5px;
+}
+
+#Responsivo{
+    overflow-x: auto;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}

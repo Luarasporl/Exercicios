@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+caption{
+    padding: 10px;
+    background-color: rgb(150, 150, 150);
+    font-weight: bold;
+    border-radius:10px 10px 0px 0px;
+}
+
+table{
+position: relative;
+}
+
+thead{
+    position: sticky;
+    top: 0;
+    background-color:rgb(59, 59, 59) ;
+}
+
+table, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+#estados{
+  width: 200px;
+}
+tr:nth-child(2n){
+  background-color: lightgray;
+}
+
+thead, tfoot{
+    background-color: rgb(59, 59, 59);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+td{
+    font-weight: bold;
+}
+
+.numero{
+    text-align: right;
+}
+

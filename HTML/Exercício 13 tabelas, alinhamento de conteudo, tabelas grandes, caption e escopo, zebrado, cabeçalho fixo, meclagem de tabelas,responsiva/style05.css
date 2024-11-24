@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+table{
+    width: 400px;
+    border-collapse: collapse;
+}
+
+caption{
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 3px;
+    border: 2px solid black;
+}
+
+th, td{
+    border: 2px solid black;
+    padding: 5px;
+}
+
+th{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cinza{
+    background-color: rgb(44, 44, 44);
+}
