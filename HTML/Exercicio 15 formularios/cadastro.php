@@ -1,1 +1,0 @@
-aprenda php para fazer o necessario com as informações
